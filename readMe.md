@@ -11,22 +11,3 @@ Each time a task is complete, we can cross it off the list by clicking on it onc
 
 The app also makes it possible to remove projects and create space for
 new ones, by simply double clicking the item we wish to remove.
-
-
-client folders
-	index.html
-	main.js
-	styles.css
-server folder
-	.env
-	.gitignore
-
-other files inside of folder
-package-lock.json
-package.json
-planning.txt
-readme.txt
-
-
-
-for the website as long as you have that html doc repo'ed with your name in h1 tags it counts as done
